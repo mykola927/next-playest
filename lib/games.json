@@ -1,0 +1,150 @@
+{
+  "popularDatas": [
+    {
+      "cardImg": "/assets/image/gamecard/card_bigcity.png",
+      "imgAlt1": "c1",
+      "gameTitle": "Big city"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_bigcity1.png",
+      "imgAlt1": "c2",
+      "gameTitle": "Big city"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_bigcity2.png",
+      "imgAlt1": "c3",
+      "gameTitle": "Cyber Life 3"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_farcry777.png",
+      "imgAlt1": "c4",
+      "gameTitle": "Far cry 777"
+    }
+  ],
+  "newestDatas": [
+    {
+      "cardImg": "/assets/image/gamecard/card_cyberpunk.png",
+      "imgAlt1": "c1",
+      "gameTitle": "Cyber Punk"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_farcry777.png",
+      "imgAlt1": "c2",
+      "gameTitle": "Far cry 777"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_bigcity.png",
+      "imgAlt1": "c3",
+      "gameTitle": "Cyber Punk"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_bigcity1.png",
+      "imgAlt1": "c4",
+      "gameTitle": "Big city"
+    }
+  ],
+  "bestSellerDatas": [
+    {
+      "cardImg": "/assets/image/gamecard/card_bigcity2.png",
+      "imgAlt1": "c1",
+      "gameTitle": "Cyber Life 3"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_bigcity1.png",
+      "imgAlt1": "c2",
+      "gameTitle": "Big city"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_bigcity2.png",
+      "imgAlt1": "c3",
+      "gameTitle": "Cyber Life 3"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_bigcity.png",
+      "imgAlt1": "c4",
+      "gameTitle": "Cyber Punk"
+    }
+  ],
+  "exploreDatas": [
+    {
+      "cardImg": "/assets/image/gamecard/card_bigcity1.png",
+      "imgAlt1": "c1",
+      "gameTitle": "Big City"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_bigcity2.png",
+      "imgAlt1": "c2",
+      "gameTitle": "Cyber Life 3"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_bigcity2.png",
+      "imgAlt1": "c3",
+      "gameTitle": "Cyber Life 3"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_bigcity.png",
+      "imgAlt1": "c4",
+      "gameTitle": "Cyber Punk"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_farcry777.png",
+      "imgAlt1": "c1",
+      "gameTitle": "Far cry 777"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_cyberpunk.png",
+      "imgAlt1": "c2",
+      "gameTitle": "Cyber Punk"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_bigcity.png",
+      "imgAlt1": "c3",
+      "gameTitle": "Cyber Punk"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_bigcity1.png",
+      "imgAlt1": "c4",
+      "gameTitle": "Big city"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_bigcity2.png",
+      "imgAlt1": "c1",
+      "gameTitle": "Cyber Life 3"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_bigcity3.png.png",
+      "imgAlt1": "c2",
+      "gameTitle": "Big City"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_bigcity2.png",
+      "imgAlt1": "c3",
+      "gameTitle": "Cyber Life 3"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_bigcity.png",
+      "imgAlt1": "c4",
+      "gameTitle": "Cyber Punk"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_cyberpunk.png",
+      "imgAlt1": "c1",
+      "gameTitle": "Cyber Punk"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_farcry777.png",
+      "imgAlt1": "c2",
+      "gameTitle": "Far cry 777"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_bigcity.png",
+      "imgAlt1": "c3",
+      "gameTitle": "Cyber Punk"
+    },
+    {
+      "cardImg": "/assets/image/gamecard/card_bigcity1.png",
+      "imgAlt1": "c4",
+      "gameTitle": "Big city"
+    }
+  ]
+}

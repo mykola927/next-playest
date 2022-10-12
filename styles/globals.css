@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'Michroma';
+  font-weight: normal;
+  font-style: normal;
+  src: url('/public/assets/fonts/Michroma.ttf');
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0 auto;
+  background: linear-gradient(120.5deg, rgba(102, 128, 255, 0.2) 2.71%, rgba(5, 232, 194, 0.2) 96.76%), #000000;
+  /* font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif; */
+}
+
+a {
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* width */
+::-webkit-scrollbar {
+  margin: 10px 0;
+  width: 2px;
+  height: 4px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(120.5deg, rgba(102, 128, 255, 0.2) 2.71%, rgba(5, 232, 194, 0.2) 96.76%), #000000;
+    border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(120.5deg, rgba(102, 128, 255, 0.2) 2.71%, rgba(5, 232, 194, 0.2) 96.76%), #000000;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: white;
+    background: linear-gradient(120.5deg, rgba(102, 128, 255, 0.2) 2.71%, rgba(5, 232, 194, 0.2) 96.76%), #000000;
+  }
+}

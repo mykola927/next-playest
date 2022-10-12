@@ -1,0 +1,145 @@
+.Modal {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.mymodal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 470px;
+  transform: translate(-50%, -50%);
+  border: 1px solid #64A5F4;
+  background: #fff;
+  overflow: auto;
+  border-radius: 10px;
+  outline: none;
+  background: linear-gradient(120.5deg, rgba(102, 128, 255, 0.2) 2.71%, rgba(5, 232, 194, 0.2) 96.76%), #000000;
+  backdrop-filter: blur(20px);
+
+}
+
+.myoverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.modalContent {
+  padding: 40px;
+  position: relative;
+}
+
+.modalTitle {
+  font-family: 'Michroma';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 37px;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.modalSubTitle {
+  margin: 1.375rem auto;
+  text-align: justify;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 140%;
+  display: flex;
+  align-items: center;
+  color: #9EA7AC;
+}
+
+.sumbalance {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 130%;
+  margin-bottom: 2rem;
+}
+
+.actionBtn {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 23px;
+  gap: 8px;
+  background: linear-gradient(120.5deg, #6680FF 2.71%, #05E8C2 96.76%);
+  box-shadow: 0px 0px 16px rgba(102, 128, 255, 0.5), 0px 0px 12px rgba(21, 195, 244, 0.5);
+  border-radius: 10px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 26px;
+  color: #ffffff;
+}
+
+.okayBtn {
+  display: flex;
+  width: 45%;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 23px;
+  gap: 8px;
+  background: linear-gradient(120.5deg, #6680FF 2.71%, #05E8C2 96.76%);
+  box-shadow: 0px 0px 16px rgba(102, 128, 255, 0.5), 0px 0px 12px rgba(21, 195, 244, 0.5);
+  border-radius: 10px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 26px;
+  color: #ffffff;
+}
+
+.cancelBtn {
+  display: flex;
+  width: 45%;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 23px;
+  gap: 8px;
+  filter: drop-shadow(0px 0px 16px rgba(102, 128, 255, 0.5)) drop-shadow(0px 0px 12px rgba(21, 195, 244, 0.5));
+  border-radius: 10px;
+  border: #6680FF solid 1px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 26px;
+  color: #ffffff;
+}
+
+@media screen and (max-width: 480px) {
+  .mymodal {
+    width: 90%;
+  }
+
+  .modalTitle {
+    font-size: 20px;
+  }
+}
+
+.ReactModal__Overlay {
+  opacity: 0;
+  transition: opacity 500ms ease-in-out;
+}
+
+.ReactModal__Overlay--after-open {
+  opacity: 1;
+}
+
+.ReactModal__Overlay--before-close {
+  opacity: 0;
+}

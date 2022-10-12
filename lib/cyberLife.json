@@ -1,0 +1,116 @@
+{
+  "cardDatas": [
+    {
+      "cardImg": "/assets/image/cyberlife/c1.png",
+      "imgAlt1": "c1",
+      "frameName": "Mogul",
+      "frameRanking": "#1234",
+      "like": "/assets/image/cyberlife/heart1.png",
+      "imgAlt2": "h1",
+      "likeCnt": "324"
+    },
+    {
+      "cardImg": "/assets/image/cyberlife/c2.png",
+      "imgAlt1": "c2",
+      "frameName": "Mogul",
+      "frameRanking": "#1234",
+      "like": "/assets/image/cyberlife/heart1.png",
+      "imgAlt2": "h1",
+      "likeCnt": "324"
+    },
+    {
+      "cardImg": "/assets/image/cyberlife/c3.png",
+      "imgAlt1": "c3",
+      "frameName": "Mogul",
+      "frameRanking": "#1234",
+      "like": "/assets/image/cyberlife/heart2.png",
+      "imgAlt2": "h2",
+      "likeCnt": "325"
+    },
+    {
+      "cardImg": "/assets/image/cyberlife/c4.png",
+      "imgAlt1": "c4",
+      "frameName": "Mogul",
+      "frameRanking": "#1234",
+      "like": "/assets/image/cyberlife/heart1.png",
+      "imgAlt2": "h1",
+      "likeCnt": "324"
+    },
+    {
+      "cardImg": "/assets/image/cyberlife/c5.png",
+      "imgAlt1": "c5",
+      "frameName": "Mogul",
+      "frameRanking": "#1234",
+      "like": "/assets/image/cyberlife/heart2.png",
+      "imgAlt2": "h2",
+      "likeCnt": "325"
+    },
+    {
+      "cardImg": "/assets/image/cyberlife/c6.png",
+      "imgAlt1": "c6",
+      "frameName": "Mogul",
+      "frameRanking": "#1234",
+      "like": "/assets/image/cyberlife/heart1.png",
+      "imgAlt2": "h1",
+      "likeCnt": "324"
+    },
+    {
+      "cardImg": "/assets/image/cyberlife/c7.png",
+      "imgAlt1": "c7",
+      "frameName": "Mogul",
+      "frameRanking": "#1234",
+      "like": "/assets/image/cyberlife/heart1.png",
+      "imgAlt2": "h1",
+      "likeCnt": "324"
+    },
+    {
+      "cardImg": "/assets/image/cyberlife/c8.png",
+      "imgAlt1": "c8",
+      "frameName": "Mogul",
+      "frameRanking": "#1234",
+      "like": "/assets/image/cyberlife/heart2.png",
+      "imgAlt2": "h2",
+      "likeCnt": "325"
+    },
+    {
+      "cardImg": "/assets/image/cyberlife/c9.png",
+      "imgAlt1": "c9",
+      "frameName": "Mogul",
+      "frameRanking": "#1234",
+      "like": "/assets/image/cyberlife/heart2.png",
+      "imgAlt2": "h2",
+      "likeCnt": "325"
+    },
+    {
+      "cardImg": "/assets/image/cyberlife/c10.png",
+      "imgAlt1": "c10",
+      "frameName": "Mogul",
+      "frameRanking": "#1234",
+      "like": "/assets/image/cyberlife/heart1.png",
+      "imgAlt2": "h1",
+      "likeCnt": "324"
+    }
+  ],
+  "similarGames": [
+    {
+      "cardImg": "/assets/image/cyberlife/sg1.png",
+      "imgAlt1": "sg1",
+      "gameTitle": "Cyber Life3"   
+    },
+    {
+      "cardImg": "/assets/image/cyberlife/sg2.png",
+      "imgAlt1": "sg2",
+      "gameTitle": "Big City"
+    },
+    {
+      "cardImg": "/assets/image/cyberlife/sg3.png",
+      "imgAlt1": "sg3",
+      "gameTitle": "Cyber Life3"
+    },
+    {
+      "cardImg": "/assets/image/cyberlife/sg4.png",
+      "imgAlt1": "sg4",
+      "gameTitle": "Cyber Punk"
+    }
+  ]
+}
